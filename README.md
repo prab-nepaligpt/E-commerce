@@ -1,5 +1,7 @@
 # # Responsive E-Commerce Website
 
+Made By Prabesh Neupane ,Amit Kc ,Aadish Raj Joshi
+
 This project is a Responsive E-Commerce Website designed to provide a seamless shopping experience across various devices, including desktops, tablets, and mobile phones. It is built using HTML, CSS, JavaScript, and jQuery, with additional libraries and plugins to enhance functionality and user experience.
 
 Key Features:
